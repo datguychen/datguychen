@@ -40,7 +40,7 @@ I'm a QA Automation Engineer from Poland.
 ## What I'm currently learning 📚
 
 - Typescript
-- Postman
+- Testing API with Postman
 - Playwright
 
 </details>
