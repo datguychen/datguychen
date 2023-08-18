@@ -19,7 +19,7 @@ I'm a QA Automation Engineer from Poland.
 - Manual Testing
 - Automation Testing (Playwright / Typescript)
 - CI/CD in GitHub Actions
-- Writing & maitaining documentation
+- Writing & maintaining documentation
   
 
 ### Technologies
