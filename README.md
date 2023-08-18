@@ -9,10 +9,10 @@ I'm a QA Automation Engineer from Poland.
 </summary>
 
 ## Quick overview
-• Automation Tester in Playwright TypeScript for 1 year and Manual Tester for 3 years.
-• Helped building QA team from the ground as the first software tester in the team.
-• Created and maintained E2E Automation Tests for the AirNauts' largest client.
-• Extensive manual software testing on various environments e.g. iOS, MacOS, Windows.
+- Automation Tester in Playwright TypeScript for 1 year and Manual Tester for 3 years.
+- Helped building QA team from the ground as the first software tester in the team.
+- Created and maintained E2E Automation Tests for the AirNauts' largest client.
+- Extensive manual software testing on various environments e.g. iOS, MacOS, Windows.
 
 
 ## My skills 📜
