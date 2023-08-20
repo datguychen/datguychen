@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a QA Automation Engineer from Poland.
+I'm a QA Automation Engineer from Poland with 3 years of experience.
 
 
 <details>
