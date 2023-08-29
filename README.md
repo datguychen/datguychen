@@ -5,7 +5,7 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 
 <details>
 <summary>
-  More stuff about me
+  More stuff about me 👉[CLICK ME]👈
 </summary>
 
 ## Quick overview
