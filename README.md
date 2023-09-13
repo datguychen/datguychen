@@ -20,6 +20,8 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 - Automation Testing (Playwright / Typescript)
 - CI/CD in GitHub Actions
 - Writing & maintaining documentation
+- Backend Automation (Postman)
+- SQL (postgreSQL)
   
 
 ### Technologies
@@ -29,6 +31,8 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 - Playwright
 - Git
 - GitHub Actions
+- Postman
+- postgreSQL
 
 ### Languages 🌐
 
