@@ -33,6 +33,9 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 - GitHub Actions
 - Postman
 - postgreSQL
+- Visual Code Studio
+- Testrail / Testmo
+- Jira / Asana / Azure DevOps
 
 ### Languages 🌐
 
