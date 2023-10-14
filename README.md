@@ -22,6 +22,7 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 - Writing & maintaining documentation
 - Backend Automation (Postman)
 - SQL (postgreSQL)
+- Performance Testing (k6)
   
 
 ### Technologies
@@ -36,6 +37,7 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 - Visual Code Studio
 - Testrail / Testmo
 - Jira / Asana / Azure DevOps
+- k6
 
 ### Languages 🌐
 
