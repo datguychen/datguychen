@@ -10,7 +10,7 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 
 ## Quick overview
 - Automation Tester in Playwright TypeScript for 1 year and Manual Tester for 3 years.
-- Helped building QA team from the ground as the first software tester in the team.
+- Comprehensive ISTQB knowledge & proficiency in principles, methodologies, and practices.
 - Created and maintained E2E Automation Tests for the AirNauts' largest client.
 - Extensive manual software testing on various environments e.g. iOS, MacOS, Windows.
 
@@ -50,6 +50,7 @@ I'm a QA Automation Engineer from Poland with 3 years of experience.
 
 - Typescript
 - Testing API with Postman
+- Testing API with Playwright
 - Playwright
 
 </details>
