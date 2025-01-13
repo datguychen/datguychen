@@ -10,7 +10,7 @@ I'm a QA Automation Engineer from Poland with over 4 years of experience.
 
 ## Quick overview
 - Automation Tester in Playwright TypeScript for over 2 years and Manual Tester for over 4 years.
-- Comprehensive ISTQB knowledge & proficiency in principles, methodologies, and practices.
+- ISTQB Certified: Comprehensive ISTQB knowledge & proficiency in principles, methodologies, and practices.
 - Great understanding of creating and maintaining E2E Automation Tests.
 - Extensive manual software testing on various environments e.g. iOS, MacOS, Windows.
 
